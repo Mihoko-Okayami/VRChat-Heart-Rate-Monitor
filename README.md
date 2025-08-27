@@ -33,7 +33,7 @@ VRChat Heart Rate Monitor is a simple app that connects to **any native Bluetoot
 Want to display your heart rate directly on your VRChat avatar and you don't have a knowledge how to do that?  
 A community member has created an easy-to-use prefab that you can add to your avatar using **Unity**.  
 
-🔗 Check their project here: [GitHub Project Link](https://github.com/32294/VRChat_Heart_Rate_Monitor_Prefab_Quest_Compatible)  
+🔗 Check her project here: [GitHub Project Link](https://github.com/32294/VRChat_Heart_Rate_Monitor_Prefab_Quest_Compatible)  
 
 ## 🔧 Troubleshooting
 If you encounter issues, try these steps:  
@@ -47,4 +47,4 @@ If you encounter issues, try these steps:
 ## 💡 Still stuck? [Join our Discord community](https://virgosky.com/dc) and share your experience!
 
 ## 🙌 Special Thanks
-Huge thank you to Semmie, Mr_BoBek, Supe2 and Whipper for their incredible support in testing and improving this app! 🎉
+Huge thank you to Semmie, Mr_BoBek, Supe2, Whipper and 32294 for their incredible support in testing and improving this app! 🎉
