@@ -47,4 +47,4 @@ If you encounter issues, try these steps:
 ## 💡 Still stuck? [Join our Discord community](https://virgosky.com/dc) and share your experience!
 
 ## 🙌 Special Thanks
-Huge thank you to Semmie, Mr_BoBek and Supe2 for their incredible support in testing and improving this app! 🎉
+Huge thank you to Semmie, Mr_BoBek, Supe2 and Whipper for their incredible support in testing and improving this app! 🎉
