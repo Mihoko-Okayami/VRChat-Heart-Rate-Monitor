@@ -50,7 +50,7 @@ namespace VRChatHeartRateMonitor
 
                 if (useAvatar && lastAvatarHeartRate != currentHeartRate)
                 {
-                    OscParameter.SendAvatarParameter(avatarParameter, (avatarParameterIsFloat ? (currentHeartRate - 127f) / 127f : (int)currentHeartRate));
+                    OscParameter.SendAvatarParameter(avatarParameter, (avatarParameterIsFloat ? currentHeartRate / 254f : (int)currentHeartRate));
 
                     lastAvatarHeartRate = currentHeartRate;
                 }
